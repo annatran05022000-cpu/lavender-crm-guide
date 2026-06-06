@@ -1,4 +1,9 @@
 ---
+image: "photo-1553484771-371a605b060b"
+cover:
+  image: "photo-1553484771-371a605b060b"
+  alt: "cover"
+  relative: false
 title: "Welcome to Lavender CRM Guide"
 date: 2026-06-01
 description: "CRM setup guides, automation workflows, and sales stack reviews for growing teams."
